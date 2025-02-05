@@ -68,7 +68,7 @@
 <br>
 
 ## 🎒 Образование
-![Сертификат](https://github.com/user-attachments/assets/1d493431-14cf-4580-aa2d-4c33558ad6f4)
+![Сертификат](https://github.com/user-attachments/assets/1d493431-14cf-4580-aa2d-4c33558ad6f4) 
 
 
 <br>
