@@ -68,7 +68,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Сертификат»">](blob:https://web.telegram.org/84b99a5a-514c-4fb3-8731-aa34771a5fea)
+[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Сертификат»">](![Сертификат](https://github.com/user-attachments/assets/1d493431-14cf-4580-aa2d-4c33558ad6f4)
+
 
 <br>
 
